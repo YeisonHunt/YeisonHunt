@@ -2,7 +2,7 @@
 Full Stack Developer and Javascripter!
 ===
 
-Here are some ideas to get you started:
+About me:
 
 - 🔭 I’m currently working on HubSync as a Full Stack Developer
 - 🌱 I’m currently learning software architecture and performance enhacenements for big applications.
