@@ -10,7 +10,7 @@ About me:
 - 💬 Ask me about React, Vue and React Native.
 - 📫 How to reach me: yecaicedo@unicauca.edu.co
 - 😄 Fun fact: Started as a developer by mistake and now is one of the most important things in my life after my family.
-- 🐈 Got a little friend(pet) as a partner called Rick. 
+- 🐈 Got a little friend(pet) called Rick. 
 
 ### Connect with me:
 
