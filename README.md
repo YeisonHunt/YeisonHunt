@@ -45,10 +45,10 @@ About me:
 
 ---
 
-### 📺 Latest YouTube Videos
+### [<img align="left" alt="Terminal" width="26px" src="https://emojipedia-us.s3.amazonaws.com/content/2020/04/05/yt.png" />][webdevplaylist] Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [🔴 Use console.table() like a PRO | PopJS](https://www.youtube.com/watch?v=0HVknKA0D5E)
+- [Use console.table() like a PRO | PopJS](https://www.youtube.com/watch?v=0HVknKA0D5E)
 - [The evolution of NodeJS 🔐, DENO! 💪](https://www.youtube.com/watch?v=uc6EO7vHH1U)
 - [Want to compile something really fast in 2021 ? (Faster JS Apps)](https://www.youtube.com/watch?v=VNrvkvH9EcY)
 - [Web animation with GSAP - PopJS](https://www.youtube.com/watch?v=jtL-THHqMFE)
