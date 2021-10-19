@@ -9,7 +9,7 @@ About me:
 - 👯 I’m looking to collaborate on JS Open Source Projects.
 - 💬 Ask me about React, Vue and React Native.
 - 📫 How to reach me: https://www.linkedin.com/in/yeison-e-caicedo-2704/
-- 😄 Fun fact: Started as a developer by mistake and now is one of the most important things in my life after my family.
+- 😄 Fun fact: Started as a developer by mistake and now is one of the coolest things in my life, I don't even see it as a work! 😄
 - 🐈 Got a little friend(pet) called Rick. 
 
 ### Connect with me:
