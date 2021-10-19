@@ -12,6 +12,10 @@ About me:
 - 😄 Fun fact: Started as a developer by mistake and now is one of the coolest things in my life, I don't even see it as a work! 😄
 - 🐈 Got a little friend(pet) called Rick. 
 
+[<img align="middle" alt="hackerrank" width="122px" src="https://d1ka33fs6lvw5x.cloudfront.net/hackerrank/assets/styleguide/logo_wordmark-f5c5eb61ab0a154c3ed9eda24d0b9e31.svg" />][hackerrank]
+
+<br>
+
 ### Connect with me:
 
 [<img align="left" alt="yeisonHunt" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -67,3 +71,4 @@ About me:
 [jsplaylist]: https://www.youtube.com/channel/UCJsVoqlzIrlb4ZWXErpn3lQ
 [cssplaylist]: https://www.youtube.com/channel/UCJsVoqlzIrlb4ZWXErpn3lQ
 [reactplaylist]: https://www.youtube.com/channel/UCJsVoqlzIrlb4ZWXErpn3lQ
+[hackerrank]:https://www.hackerrank.com/yecaicedo
