@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm YeisonHunt
-Full Stack Developer and love everything about the JS World.
+Full Stack Developer and Javascripter!
 ===
 
 Here are some ideas to get you started:
