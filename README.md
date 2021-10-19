@@ -8,7 +8,7 @@ About me:
 - 🌱 I’m currently learning software architecture and performance enhacenements for big applications.
 - 👯 I’m looking to collaborate on JS Open Source Projects.
 - 💬 Ask me about React, Vue and React Native.
-- 📫 How to reach me: yecaicedo@unicauca.edu.co
+- 📫 How to reach me: https://www.linkedin.com/in/yeison-e-caicedo-2704/
 - 😄 Fun fact: Started as a developer by mistake and now is one of the most important things in my life after my family.
 - 🐈 Got a little friend(pet) called Rick. 
 
