@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm YeisonHunt
-Full Stack Developer and Javascripter!
-Specialized as a Backend Engineer.
+# Backend Engineer and Javascripter!
+
 ===
 
 About me:
