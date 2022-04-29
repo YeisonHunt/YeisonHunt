@@ -8,7 +8,7 @@ About me:
 - 🔭 I’m currently working on HubSync as a Full Stack Developer
 - 🌱 I’m currently learning software architecture and performance enhacenements for big applications.
 - 👯 I’m looking to collaborate on JS Open Source Projects.
-- 💬 Ask me about React, Vue, React Native or Node.
+- 💬 Ask me about React, Vue, Node, Typescript and incoming Go.
 - 📫 How to reach me: https://www.linkedin.com/in/yeison-e-caicedo-2704/
 - 😄 Fun fact: Started as a developer by mistake and now is one of the coolest things in my life, I don't even see it as a work! 😄
 - 🐈 Got a little friend(pet) called Rick. 
