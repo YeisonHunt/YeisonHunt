@@ -11,7 +11,7 @@ About me:
 - 💬 Ask me about React, Vue, Node, Typescript and incoming Go.
 - 📫 How to reach me: https://www.linkedin.com/in/yeison-e-caicedo-2704/
 - 😄 Fun fact: Started as a developer by mistake and now is one of the coolest things in my life, I don't even see it as a work! 😄
-- 🐈 Got a little friend(pet) called Rick. 
+- 🐈 Got two little friends(pets) called Rick and Simba. 
 
 [<img align="middle" alt="hackerrank" width="122px" src="https://d1ka33fs6lvw5x.cloudfront.net/hackerrank/assets/styleguide/logo_wordmark-f5c5eb61ab0a154c3ed9eda24d0b9e31.svg" />][hackerrank]
 
@@ -21,9 +21,7 @@ About me:
 
 [<img align="left" alt="yeisonHunt" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="yeisonHunt | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="yeisonHunt | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="yeisonHunt | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="yeisonHunt | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br>
 
