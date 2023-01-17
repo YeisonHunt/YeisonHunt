@@ -5,7 +5,7 @@
 
 About me:
 
-- 🔭 I’m currently working on HubSync as a Full Stack Developer
+- 🔭 I’m currently working on Greenlight as a Senior Backend engineer.
 - 🌱 I’m currently learning software architecture and performance enhacenements for big applications.
 - 👯 I’m looking to collaborate on JS Open Source Projects.
 - 💬 Ask me about React, Vue, Node, Typescript and incoming Go.
