@@ -6,9 +6,9 @@
 About me:
 
 - 🔭 I’m currently working on Jeeves as a Senior Backend engineer.
-- 🌱 I’m currently learning software architecture and performance enhacenements for big applications.
+- 🌱 I’m currently interested on applying concepts at software architecture and performance enhacenements for big applications and Fintech companies.
 - 👯 I’m looking to collaborate on JS Open Source Projects.
-- 💬 Ask me about React, Vue, Node, Typescript and incoming Go.
+- 💬 Ask me about Node, Typescript, React and incoming Go.
 - 📫 How to reach me: https://www.linkedin.com/in/yeison-e-caicedo-2704/
 - 😄 Fun fact: Started as a developer by mistake and now is one of the coolest things in my life, I don't even see it as a work! 😄
 - 🐈 Got two little friends(pets) called Rick and Simba. 
