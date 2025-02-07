@@ -5,7 +5,7 @@
 
 About me:
 
-- 🔭 I’m currently working on Jeeves as a Senior Backend engineer.
+- 🔭 I’m currently working on Influur as a Senior Software engineer.
 - 🌱 I’m currently interested on applying concepts at software architecture and performance enhacenements for big applications and Fintech companies.
 - 👯 I’m looking to collaborate on JS Open Source Projects.
 - 💬 Ask me about Node, Typescript, React and incoming Go.
